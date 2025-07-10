@@ -23,15 +23,19 @@
 
 -------------------------
   **SETUP**
-  1. Clone the repo:
-      - git clone https://github.com/calhodges11/job-tools.git
-      - cd job-tools
+  1. Clone the repo: <br>
+     ```bash
+     git clone https://github.com/calhodges11/job-tools.git
+     cd job-tools
   2. Install requirements:
-      - pip install -r requirements.txt
+     ```bash
+     pip install -r requirements.txt
   3. Scrape job listings:
-      - python job_scraper.py
+     ```bash
+     python job_scraper.py
   4. Launch the dashboard:
-      - streamlit run main.py
+     ```bash
+     streamlit run main.py
        
 ----------------------------
 **Planned Features**
@@ -42,6 +46,10 @@
 - Compare skill trends over time
 
 ---------------------------
-**Author**
-Calloway Hodges
-github.com/calhodges11 | https://www.linkedin.com/in/calloway-hodges/
+**Author** <br>
+Calloway Hodges <br>
+[github](https://www.github.com/calhodges11) | [linkedin](https://www.linkedin.com/in/calloway-hodges/)
+
+-------------------
+**License** <br>
+MIT — free to use, modify, and build upon.
