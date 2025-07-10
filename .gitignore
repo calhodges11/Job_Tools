@@ -1,0 +1,3 @@
+# Ignore SQLite DB and data files
+data/
+*.db
